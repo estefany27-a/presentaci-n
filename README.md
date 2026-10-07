@@ -1,5 +1,7 @@
 PORTAFOLIO PERSONAL
 
+![] (logo.png)
+
 WENDY ESTEFANY MORAN PANTOJA
 
 Estudiante de Ingeniería de Sistemas
