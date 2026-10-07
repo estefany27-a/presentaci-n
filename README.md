@@ -1,6 +1,6 @@
 PORTAFOLIO PERSONAL
 
-![] (logo.png)
+![](logo.png)
 
 WENDY ESTEFANY MORAN PANTOJA
 
